@@ -1,0 +1,361 @@
+
+* {
+    font-family: sans-serif;
+}
+
+.satir1 a {
+
+    text-decoration: none;
+    color: #999;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+
+.satir2 a {
+    position: relative;
+    text-decoration: none;
+    font-size: 13px;
+    color: #333333;
+    right: 50px;
+    bottom: 5px;
+}
+
+
+.satir3 a {
+    position: relative;
+    text-decoration: none;
+    font-size: 12px;
+    color: #333;
+    line-height: 34px;
+    bottom: 30px;
+    left: 40px;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+
+.satir4 a {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+
+.satir4 {
+    position: relative;
+    bottom: 10px;
+}
+
+.arama {
+    position: relative;
+    width: 620px;
+    top: -10px;
+    right: 65px;
+
+
+}
+
+.logo {
+    position: relative;
+    bottom: 22px;
+    left: 40px;
+}
+
+.breadcrumb {
+    position: relative;
+    bottom: 20px;
+    left: 40px;
+}
+
+.satir5 {
+    position: absolute;
+    display: inline-block;
+    width: 956px;
+    height: 755px;
+    border: solid 1px #e6e6e6;
+    background-color: #fff;
+    box-shadow: 0 1px 4px #0000000d;
+    border-radius: 6px;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 1;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.foto {
+    position: relative;
+    left: 0px;
+    border-radius: 6px;
+    border: solid 1px #e6e6e6;
+    z-index: 2;
+    padding: 0px;
+}
+
+
+.yazi {
+    display: inline-block;
+    position: relative;
+    margin: 25px;
+    left: 385px;
+    bottom: 600px;
+}
+
+.ilk {
+    color: #666;
+    font-size: 10px;
+    letter-spacing: .34px;
+    margin-top: 8px;
+    margin-left: -30px;
+
+}
+
+.ilk strong {
+    margin-left: 0px;
+    border-radius: 2px;
+    background-image: linear-gradient(to top, #ffedde, #fff4eb);
+    letter-spacing: .34px;
+    font-size: 11px;
+    color: #f27a1a;
+    font-family: sans-serif;
+    padding: 0 12px 0 3px;
+}
+
+.ilk a {
+    text-decoration: none;
+}
+
+
+.ikinci {
+    font-family: sans-serif;
+    color: #333;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-left: -30px;
+}
+
+.ikinci strong {
+    color: #333;
+}
+
+.ikinci a {
+    text-decoration: none;
+}
+
+.ikinci b {
+    font-size: 11px;
+}
+
+.ucuncu {
+    font-size: 11px;
+    margin-top: 8px;
+    margin-left: -30px;
+}
+
+.ucuncu a {
+    text-decoration: none;
+    color: #666;
+}
+
+.card {
+    background-color: #fff;
+    height: 60px;
+    width: 185px;
+    border: 1px solid #EC1C36;
+}
+
+.card p {
+    background-color: #f7e9eb;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 2px;
+    color: #EC1C36;
+}
+
+.card h3 {
+    position: relative;
+    text-align: center;
+    bottom: 2px;
+    color: #EC1C36;
+}
+
+.card del {
+    font-size: 20px;
+    color: #999;
+}
+
+.dorduncu p {
+    position: relative;
+    left: 400px;
+    top: 20px;
+    color: #333;
+}
+
+.besinci button {
+    position: relative;
+    width: 400px;
+    height: 50px;
+    border: 1px solid #f27a1a;
+    border-radius: 6px;
+    background: #f27a1a;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+    top: 60px;
+
+}
+
+.altinci {
+    position: relative;
+    font-size: 11px;
+    margin-top: 75px;
+    margin-left: -30px;
+    color: #999;
+}
+
+.altinci strong {
+    color: #333;
+}
+
+.yedinci li {
+    position: relative;
+    font-size: 12px;
+    line-height: 28px;
+    margin-left: -30px;
+}
+
+.yedinci strong {
+    margin-left: -30px;
+    color: #333;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.yedinci a {
+    color: #333;
+}
+
+
+.sekizinci button {
+    position: relative;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    color: #333;
+    border-radius: 6px;
+    width: 450px;
+
+}
+
+.bilgi1 {
+    position: relative;
+    border: solid 1px #e6e6e6;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px #0000000d;
+    width: 220px;
+    height: 120px;
+    box-sizing: border-box;
+    border-color: #f2e5da;
+    background-color: #fffaf6;
+    font-size: 11px;
+    left: 40px;
+    list-style: none;
+    bottom: 20px;
+    margin-left: -15px;
+
+}
+
+.bilgi1 ul li {
+    position: relative;
+    top: 15px;
+    right: 0px;
+    font-size: 12px;
+}
+
+
+.bilgi2 {
+    position: relative;
+    width: 220px;
+    height: 160px;
+    margin-left: -15px;
+    left: 40px;
+    border: solid 1px #e6e6e6;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px #0000000d;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-family: sans-serif;
+    background-color: #fffef8;
+}
+
+.bilgi2 a {
+    text-decoration: none;
+}
+
+.card-header a {
+    position: relative;
+    top: 10px;
+}
+
+.sl-pn {
+    position: relative;
+    width: 25px;
+    height: 18px;
+    background-color: rgb(60, 205, 125);
+    border-radius: 4px;
+    text-align: center;
+    left: 100px;
+    bottom: 10px;
+    font-size: 13px;
+}
+
+.bilgi3 {
+    position: relative;
+    top: 20px;
+    left: 1015px;
+    z-index: 999;
+    width: 220px;
+    height: 160px;
+    font-size: 11px;
+    border: solid 1px #e6e6e6;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px #0000000d;
+    box-sizing: border-box;
+}
+
+.bilgi3 a {
+    text-decoration: none;
+    color: #16be48;
+    font-size: 14px;
+}
+
+.comment {
+    color: #f27a1a;
+}
+
+.fa-star {
+    color: rgb(236, 179, 54);
+
+}
+
+.fa-house {
+    color: #f27a1a;
+}
+
+* a:hover {
+    color: #f27a1a !important;
+}
+
+.hr {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-top: 1px solid #e8e8e8;
+    top: 30px;
+    z-index: 999;
+}
